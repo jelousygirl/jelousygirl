@@ -1,4 +1,4 @@
-## oii seja bem vindo ao m eu perfil 👋
+## oii seja bem vindo ao meu perfil 👋
 
 <!--
 **jelousygirl/jelousygirl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
